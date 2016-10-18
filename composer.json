@@ -20,5 +20,10 @@
     "autoload": {
         "psr-0": { "BCC\\ResqueBundle": "" }
     },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "symfony3"
+        }
+    },
     "target-dir": "BCC/ResqueBundle"
 }
